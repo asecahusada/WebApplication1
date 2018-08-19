@@ -23,6 +23,7 @@ namespace WebApplication1
             //Changes by gtberzerk
             //Changes by gtberzerk 2nd
             //Changes by asecahusada via github
+            //Latest changes on Epic01 by asecahusada
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
